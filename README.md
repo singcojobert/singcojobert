@@ -1,4 +1,4 @@
-# Hi there, I'm Jobert Singco 👋
+# Hi there, I'm Jobert!
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=singcojobert&color=blueviolet&style=flat-square" alt="Profile Views" />
